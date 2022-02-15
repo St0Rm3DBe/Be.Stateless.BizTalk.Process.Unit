@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Be.Stateless.BizTalk.Abstractions" Version="2.1.22038.28359" />
+    <PackageReference Include="Be.Stateless.BizTalk.Abstractions" Version="2.1.22046.40892" />
     <PackageReference Include="Be.Stateless.Xml" Version="2.1.22025.22704" />
     <PackageReference Include="BizTalk.Server.2020.Runtime" Version="1.0.3">
       <PrivateAssets>all</PrivateAssets>
